@@ -1,0 +1,25 @@
+.login{
+    width: 40%;
+    height: 40%;
+    margin-top: 5%;
+}
+.loginform{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+/* .login > button {
+   position: relative;
+   left: 50%;
+
+} */
+.link{
+    color: crimson;
+}
+.password{
+    cursor: pointer;
+    position: absolute;
+    top: 48%;
+    right: 33.5%;
+    font-weight: bold;
+}
